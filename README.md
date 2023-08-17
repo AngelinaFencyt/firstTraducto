@@ -1,4 +1,4 @@
-# Bienvenido al proyecto interprete de lengua de seña Colombiano! 📷💻
+# Bienvenido al proyecto interprete de lengua de seña! 📷💻
 
 Este proyecto tiene como objetivo procesar imágenes enviadas por usuarios a través de una API para hacer la predicción de que letra del abecedario de la lengua de seña esta haciendo en el momento de que envia la imagen. Estoy usando FastAPI, una biblioteca Python moderna y rápida para crear APIs, para crear nuestro servidor de procesamiento de imágenes.
 
