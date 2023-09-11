@@ -86,7 +86,7 @@ Si desea contribuir a este proyecto, ¡sería genial! Puede hacerlo a través de
 
 ¿Qué pasa si tengo un problema con la aplicación? Si tienes algún problema o pregunta, no dudes en abrir una incidencia en este repositorio o enviarnos un correo electrónico a [jahazielhernandezhoyoz@gmail.com](mailto:jahazielhernandezhoyoz@gmail.com). Estaré encantado de ayudarte 🤓.
 
-# 🎉 ¡Gracias por usar este interprete de señas Colombiano!
+# 🎉 ¡Gracias por usar este interprete de señas!
 
 Espero que disfrutes de este proyecto tanto como disfrute creándolo. ¡Haz algo genial con él!
 # firstTraducto
